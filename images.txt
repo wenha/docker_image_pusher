@@ -1,4 +1,6 @@
 alpine
 nginx:latest
-pthon:alpine3.19
+pthon:latest
 busybox:latest
+jenkins-agent:latest
+jenkins-slave:latest
