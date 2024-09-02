@@ -1,3 +1,4 @@
+alpine
 nginx:latest
-pthon:latest
+pthon:alpine3.19
 busybox:latest
