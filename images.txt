@@ -16,7 +16,7 @@ mariadb:latest
 rabbitmq:latest
 wordpress:latest
 python:latest
-elasticsearch:latest
+openjdk:latest
 java:latest
 tomcat:latest
 kong:latest
