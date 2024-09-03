@@ -2,7 +2,9 @@ alpine
 nginx:latest
 python:latest
 busybox:latest
-jenkins:latest
+jenkins/jenkins:latest
+jenkins/slave:latest
+jenkins/agent:latest
 httpd:latest
 redis:latest
 mysql:latest
