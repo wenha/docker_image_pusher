@@ -1,3 +1,7 @@
+jenkins/inbound-agent:4.10-3-jdk8
+curlimages/curl:7.84.0
+cnych/jenkins:jnlp6
+jenkins/jnlp-agent:alpine
 alpine
 nginx:latest
 python:latest
@@ -17,7 +21,6 @@ rabbitmq:latest
 wordpress:latest
 python:latest
 openjdk:latest
-java:latest
 tomcat:latest
 kong:latest
 sonarqube:latest
