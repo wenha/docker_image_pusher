@@ -1,7 +1,7 @@
-jenkins/inbound-agent:4.10-3-jdk8
-curlimages/curl:7.84.0
+jenkins/inbound-agent:4.13.2-1-jdk8
 cnych/jenkins:jnlp6
-jenkins/jnlp-agent:alpine
+jenkins/jnlp-agent-ruby:latest
+jenkins/jnlp-agent-jdk8:latest
 alpine
 nginx:latest
 python:latest
