@@ -32,3 +32,11 @@ zookeeper:latest
 mono:latest
 django:latest
 redis:latest
+zabbix/zabbix-agent
+zabbix/zabbix-server-mysql
+zabbix/zabbix-server-pgsql
+zabbix/zabbix-web-apache-mysql
+zabbix/zabbix-web-nginx-mysql
+zabbix/zabbix-web-nginx-pgsql
+zabbix/zabbix-proxy-mysql
+zabbix/zabbix-java-gateway
